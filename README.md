@@ -1,6 +1,6 @@
-# Heap and Heap Sort (COMP8090SEF Task 2)
+# Heap and Heap Sort (COMP8090SEF Project Task 2)
 
-This repository contains a simple implementation of a **min-heap** data structure and the **heap sort** algorithm in Python, for the Task 2 self-study project of COMP8090SEF.
+In this repository, it contains a simple implementation of a **min-heap** data structure and the **heap sort** algorithm in Python.
 
 ## 1. Files
 
@@ -10,11 +10,7 @@ This repository contains a simple implementation of a **min-heap** data structur
 
 ## 2. How to run
 
-### 2.1 Requirements
-
-- Python 3.10 or above (standard library only, no third-party packages).
-
-### 2.2 Running the demos
+### 2.1 Running the demos
 
 From the project directory:
 

@@ -4,7 +4,7 @@ This is a **COMP8090SEF course project Task 2**.
 - Name: WONG Yan-ho, Michael
 - Student ID: 14194311
 
-In this repository, it contain a simple implementation of a **min-heap** data structure and the **heap sort** algorithm in Python.
+In this task, it contain a simple implementation of a **min-heap** data structure and the **heap sort** algorithm in Python.
 
 ## 1. Files
 

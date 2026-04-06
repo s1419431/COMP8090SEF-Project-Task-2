@@ -1,7 +1,8 @@
 # Heap and Heap Sort (COMP8090SEF Project Task 2)
 
-This is a COMP8090SEF course project Task 2.
-In this repository, it contains a simple implementation of a **min-heap** data structure and the **heap sort** algorithm in Python.
+## This is a COMP8090SEF course project Task 2.
+###
+## In this repository, it contains a simple implementation of a **min-heap** data structure and the **heap sort** algorithm in Python.
 
 ## 1. Files
 

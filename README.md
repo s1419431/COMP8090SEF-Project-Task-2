@@ -23,7 +23,7 @@ python examples.py
 ```
 
 ## Video Presentation
-[Task 2](https://mailouhkedu-my.sharepoint.com/:v:/g/personal/s1419431_live_hkmu_edu_hk/IQAz5s2zsMmKRbK72SIb6jlJAR5bmSRgDtBz08znkv4asfM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=qmG1t9)
+[Task 2](https://mailouhkedu-my.sharepoint.com/:v:/g/personal/s1419431_live_hkmu_edu_hk/IQCRrpLNBvJcSJfQ8tLxtaDzAUPTRnAruT6ZiVHYsq3BMj0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=KpJsWe)
 
 ## Powerpoint Presentation
-[Presentation Slide](https://mailouhkedu-my.sharepoint.com/:b:/g/personal/s1419431_live_hkmu_edu_hk/IQAYhfiLF0RTTaMERkM2u0ewAWPpVMwzz5WExfBw-us2_jg?e=B1zwCU)
+[Presentation Slide](https://mailouhkedu-my.sharepoint.com/:b:/g/personal/s1419431_live_hkmu_edu_hk/IQCUBuJr6S_1QqBM_CUiei6xAQ7u2WcyE2quycibX00vjHk?e=qhYqXi)

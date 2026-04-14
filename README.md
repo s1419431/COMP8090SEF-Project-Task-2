@@ -1,4 +1,4 @@
-# Heap and Heap Sort (COMP8090SEF Project Task 2)
+# min-Heap and Heap Sort (COMP8090SEF Project Task 2)
 
 This is a **COMP8090SEF course project Task 2**.
 - Name: WONG Yan-ho, Michael
